@@ -1,4 +1,4 @@
-I'm a passionate JavaScript developer, currently focused on React and TypeScript.
+I'm a passionate JavaScript engineer, currently focused on React and TypeScript.
 I love creating high-quality products, learning and sharing my knowledge, helping people, speaking at conferences and facing new challenges.
 
 - 🗣 Did you attend a talk of mine? You can find the slides on [slides.com/noriste](https://slides.com/noriste)
